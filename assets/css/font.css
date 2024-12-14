@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Vietnam;
+    src: url("../../public/fonts/Be_Vietnam_Pro/BeVietnamPro-Regular.ttf");
+    font-weight: 400;
+    unicode-range: U+00-FF;
+}
+
+@font-face {
+    font-family: Vietnam;
+    src: url("../../public/fonts/Be_Vietnam_Pro/BeVietnamPro-Medium.ttf");
+    font-weight: 500;
+    unicode-range: U+00-FF;
+}
+
+@font-face {
+    font-family: Vietnam;
+    src: url("../../public/fonts/Be_Vietnam_Pro/BeVietnamPro-Bold.ttf");
+    font-weight: 700;
+    unicode-range: U+00-FF;
+}
+
